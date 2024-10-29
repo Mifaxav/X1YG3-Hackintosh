@@ -28,14 +28,6 @@ If you find this bootloader configuration useful, consider giving it a star to m
 
 - Useful tools by [CorpNewt](https://github.com/corpnewt) and [headkaze](https://github.com/headkaze/Hackintool)
 
-</details>  
-
-<details>
-
-<summary><strong>Hardware</strong></summary>
-<br>
-
-
 [![UEFI](https://img.shields.io/badge/UEFI-N24ET61W-lightgrey)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t480-type-20l5-20l6/downloads/ds502355)
 | Category  | Component                            | Note                                                                                                               |
 | --------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -48,24 +40,12 @@ If you find this bootloader configuration useful, consider giving it a star to m
 | Wifi & BT | BCM93452Z                            | Broadcom is native.                                                                                                |                     
 | Input     | PS2 Keyboard & Synaptics TrackPad    | [YogaSMC](https://github.com/zhen-zen/YogaSMC) for media keys like microphone switch, etc. PrtSc is mapped as F13. |
 
-</details>  
-
-<details>
-
-<summary><strong>Main software</strong></summary>
-<br>
 
 | Component      | Version        |
 | -------------- | -------------- |
 | OpenCore       | v0.1.0         |
 | MacOS Sonoma   | 14.2.1 (23C71) |
 
-</details>
-
-<details>
-
-<summary><strong>Kernel extensions</strong></summary>
-<br>
 
 | Kext                   | Comment        
 |:---------------------- | ------------------------------      
